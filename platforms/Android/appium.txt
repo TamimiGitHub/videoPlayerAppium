@@ -1,0 +1,7 @@
+[caps]
+automationName = "YouiEngine"
+platformName = "Android"
+deviceName = "3300e7c3ec82a20d" 
+youiEngineAppAddress = "192.168.24.154" 
+app = "./VideoPlayer-debug.apk"
+

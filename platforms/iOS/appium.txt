@@ -1,0 +1,7 @@
+[caps]
+automationName = "YouiEngine"
+platformName = "iOS"
+deviceName = "NotRequiredButCantBeEmpty"
+youiEngineAppAddress = "192.168.1.109"
+app = "./VideoPlayer.app.zip"
+udid = "360df367b7bc229d90889ddbf1fe48c245aca3fc"
